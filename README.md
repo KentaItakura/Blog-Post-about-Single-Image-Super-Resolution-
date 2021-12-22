@@ -1,4 +1,6 @@
 # 単眼超解像(Single Image Super Resolution)手法のVDSR (Kim et al., 2016, CVPR) について勉強＆動かしてみた
+このリポジトリは[こちらのブログ記事](https://kentapt.hatenablog.com/entry/2021/12/21/170251?_ga=2.132782214.96728766.1640050803-1601353361.1630730568)のために用意されたものです。  
+
 # はじめに
 
 この記事は、MATLAB/Simulink Advent Calendar 2021（カレンダー2）の22日目の記事として書かれています。
